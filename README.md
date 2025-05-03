@@ -1,5 +1,9 @@
 # Geslachtsherkenning met AI – UTKFace + CNN (Verslagproject)
 
+## Bezoek de demo
+
+### Wil je zonder installatie zien hoe het werkt? Bezoek dan de online demo: [ml.deanj.dev](https://ml.deanj.dev)
+
 Dit project is een verslag en demonstratie van een AI-model dat het geslacht (man of vrouw) voorspelt op basis van een gezichtsafbeelding. 
 Het model wordt getraind op de UTKFace dataset en maakt gebruik van een Convolutional Neural Network (CNN) gebouwd met TensorFlow. 
 
@@ -16,10 +20,6 @@ Voor het uitvoeren van dit project heb je Jupyter Notebook nodig, aangezien alle
 De laatste cel van het notebook bevat de code om het model te testen, waarmee je direct afbeeldingen kunt laten voorspellen. Dit betekent dat je mijn voorgetrainde model kunt gebruiken zonder het volledige trainingsproces opnieuw uit te voeren.
 Als je ervoor kiest om alle cellen uit te voeren, wordt mijn voorgetrainde model vervangen door je eigen model, dat ongeveer dezelfde resultaten zal opleveren, maar toch kleine verschillen kan vertonen door de aard van het trainingsproces.
 Let op: Om het model zelf te trainen, heb je nog steeds de [UTKFace dataset](https://www.kaggle.com/datasets/jangedoo/utkface-new) of een andere geschikte verzameling afbeeldingen nodig.
-
-## Bezoek de demo
-
-Wil je zonder installatie zien hoe het werkt? Bezoek dan de online [demo](https://deanj.dev/geslacht-ai)
 
 ## Uitleg van het proces
 
@@ -129,7 +129,7 @@ Open vervolgens het `.ipynb` bestand in de browser en doorloop de cellen stap vo
 
 - De `.ipynb` notebook dient als verslag en demonstratie.
 - Niet bedoeld als kant-en-klaar herbruikbaar pakket.
-- Bekijk de demo op deanj.dev/geslacht-ai
+- Bekijk de demo op ml.deanj.dev
 
 ## Licentie
 
